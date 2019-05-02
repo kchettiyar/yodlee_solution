@@ -18,8 +18,8 @@ namespace yodlee.pureprofile.com.Controllers
 
         string fastlinkURL = "https://fastlink.yodlee.com/appscenter/fastlinksb/linkAccount.fastlinksb.action";
 
-        string consumerKey = "a458bdf184d34c0cab7ef7ffbb5f016b";
-        string consumerSecret = "1ece74e1ca9e4befbb1b64daba7c4a24";
+        string consumerKey = "";
+        string consumerSecret = "";
         string bridgetAppId = "10003200";
 
         //string strCobSessionToken = "08062013_0:0bf656a35fb85d99098b5df977a4db6ba425e06dc81aef61fdc64144ee978850c8460f71a0fe132ad6d8ff040be155c311e7d1eaf9f36d98dfb0ba11fa195fda";
